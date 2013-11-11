@@ -1,0 +1,25 @@
+# PCTeX Project File, Version 1.1
+	name: OLDCAT
+	texformat: latex
+	typesetmode: PDF
+	spellwordlist: american
+OLDCAT.tex
+	wndpos: 3 -1 -1 -8 -30 75 75 1453 596
+	zorder: 0
+	edit: 4472
+OLDCAT.log
+IEEEtran.cls
+OLDCAT.aux
+InscribedAngle.pdf
+BlindSpot.pdf
+RAW.pdf
+ORIGIN.pdf
+MAXDIST.pdf
+MINDIST.pdf
+TIME.pdf
+ANGLE.pdf
+SingleShipMap.pdf
+100ShipMap.pdf
+OLDCAT.bbl
+wt.jpg
+OLDCAT.pdf

@@ -1,0 +1,460 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.7)  7 NOV 2013 09:12
+entering extended mode
+**OLDCAT.tex
+
+("C:\Users\I001817\Documents\__DOCUMENTS\Conference\ICIKM 2013\OLDCAT\OLDCAT.te
+x"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+("C:\Users\I001817\Documents\__DOCUMENTS\Conference\ICIKM 2013\OLDCAT\IEEEtran.
+cls"
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 377.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 735.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 735.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks16
+\thm@bodyfont=\toks17
+\thm@headfont=\toks18
+\thm@notefont=\toks19
+\thm@headpunct=\toks20
+\thm@preskip=\skip44
+\thm@postskip=\skip45
+\thm@headsep=\skip46
+\dth@everypar=\toks21
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen119
+\captionmargin@=\dimen120
+\captionwidth=\dimen121
+\caption@tempdima=\dimen122
+\caption@indent=\dimen123
+\caption@parindent=\dimen124
+\caption@hangindent=\dimen125
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \begin {center}{\normalfont \footnotesize #1}\\{\normal
+font \footnotesize \scshape #2}\end {center}\@IEEEtablecaptionsepspace \else \@
+IEEEfigurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {
+#1.}~~ #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\normalfont \
+footnotesize {#1.}~~ }\parbox [t]{\hsize }{\normalfont \footnotesize \noindent 
+\unhbox \@tempboxa #2}\else \ifCLASSOPTIONconference \hbox to\hsize {\normalfon
+t \footnotesize \hfil \box \@tempboxa \hfil }\else \hbox to\hsize {\normalfont 
+\footnotesize \box \@tempboxa \hfil }\fi \fi \fi .
+\c@ContinuedFloat=\count92
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count93
+\sf@farskip=\skip47
+\sf@captopadj=\dimen126
+\sf@capskip=\skip48
+\sf@nearskip=\skip49
+\c@subfigure=\count94
+\c@subfigure@save=\count95
+\c@lofdepth=\count96
+\c@subtable=\count97
+\c@subtable@save=\count98
+\c@lotdepth=\count99
+\sf@top=\skip50
+\sf@bottom=\skip51
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks22
+\float@box=\box27
+\@float@everytoks=\toks23
+\@floatcapt=\box28
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks24
+\c@algorithm=\count101
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithmicx\algpseudocode.sty"
+Package: algpseudocode 
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithmicx\algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count102
+\c@ALG@rem=\count103
+\c@ALG@nested=\count104
+\ALG@tlm=\skip52
+\ALG@thistlm=\skip53
+\c@ALG@Lnr=\count105
+\c@ALG@blocknr=\count106
+\c@ALG@storecount=\count107
+\c@ALG@tmpcounter=\count108
+\ALG@tmplength=\skip54
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+\c@InscribedAngleTheorem=\count109
+\c@IATCorollary=\count110
+
+("C:\Users\I001817\Documents\__DOCUMENTS\Conference\ICIKM 2013\OLDCAT\OLDCAT.au
+x")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen127
+\scratchbox=\box29
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen128
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks26
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Missing character: There is no ’ in font ptmr7t!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 51.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 51.
+ [1{C:/Users/I001817/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+[2]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 117.
+ [3]
+** ATTENTION: \proof is deprecated (line 172). Use \IEEEproof instead.
+
+Overfull \hbox (7.90228pt too wide) detected at line 176
+[]\OML/cmm/m/it/10 P[]AP \OT1/cmr/m/n/10 = []\OML/cmm/m/it/10 PAB \OT1/cmr/m/n/
+10 + []\OML/cmm/m/it/10 P[]AB < []PBO \OT1/cmr/m/n/10 + []\OML/cmm/m/it/10 P[]B
+O \OT1/cmr/m/n/10 = []\OML/cmm/m/it/10 P[]BP:
+ []
+
+
+Overfull \hbox (6.41826pt too wide) detected at line 181
+[]\OML/cmm/m/it/10 P[]CP \OT1/cmr/m/n/10 = []\OML/cmm/m/it/10 PCA \OT1/cmr/m/n/
+10 + []\OML/cmm/m/it/10 P[]CA < []PAB \OT1/cmr/m/n/10 + []\OML/cmm/m/it/10 P[]A
+B \OT1/cmr/m/n/10 = []\OML/cmm/m/it/10 P[]AP:
+ []
+
+<InscribedAngle.pdf, id=26, 590.205pt x 435.12563pt>
+File: InscribedAngle.pdf Graphic file (type pdf)
+ <use InscribedAngle.pdf>
+Package pdftex.def Info: InscribedAngle.pdf used on input line 188.
+(pdftex.def)             Requested size: 118.0389pt x 87.02357pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 195.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 195.
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--227
+[] \OT1/ptm/b/n/10 if OLIVE.CHK$[]$ \OT1/ptm/m/n/10 &
+ []
+
+[4 <C:/Users/I001817/Documents/__DOCUMENTS/Conference/ICIKM 2013/OLDCAT/Inscrib
+edAngle.pdf>] <BlindSpot.pdf, id=45, 636.87938pt x 472.76625pt>
+File: BlindSpot.pdf Graphic file (type pdf)
+
+<use BlindSpot.pdf>
+Package pdftex.def Info: BlindSpot.pdf used on input line 266.
+(pdftex.def)             Requested size: 127.37361pt x 94.55157pt.
+ <RAW.pdf, id=46, 843.90282pt x 480.29437pt>
+File: RAW.pdf Graphic file (type pdf)
+ <use RAW.pdf>
+Package pdftex.def Info: RAW.pdf used on input line 294.
+(pdftex.def)             Requested size: 151.89595pt x 86.44925pt.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 294.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+<ORIGIN.pdf, id=47, 828.09375pt x 482.55281pt>
+File: ORIGIN.pdf Graphic file (type pdf)
+ <use ORIGIN.pdf>
+Package pdftex.def Info: ORIGIN.pdf used on input line 296.
+(pdftex.def)             Requested size: 149.05045pt x 86.85574pt.
+
+<MAXDIST.pdf, id=48, 828.09375pt x 482.55281pt>
+File: MAXDIST.pdf Graphic file (type pdf)
+ <use MAXDIST.pdf>
+Package pdftex.def Info: MAXDIST.pdf used on input line 298.
+(pdftex.def)             Requested size: 149.05045pt x 86.85574pt.
+
+<MINDIST.pdf, id=49, 828.09375pt x 482.55281pt>
+File: MINDIST.pdf Graphic file (type pdf)
+ <use MINDIST.pdf>
+Package pdftex.def Info: MINDIST.pdf used on input line 300.
+(pdftex.def)             Requested size: 149.05045pt x 86.85574pt.
+
+<TIME.pdf, id=50, 828.09375pt x 482.55281pt>
+File: TIME.pdf Graphic file (type pdf)
+ <use TIME.pdf>
+Package pdftex.def Info: TIME.pdf used on input line 302.
+(pdftex.def)             Requested size: 149.05045pt x 86.85574pt.
+
+<ANGLE.pdf, id=51, 828.09375pt x 482.55281pt>
+File: ANGLE.pdf Graphic file (type pdf)
+ <use ANGLE.pdf>
+Package pdftex.def Info: ANGLE.pdf used on input line 304.
+(pdftex.def)             Requested size: 149.05045pt x 86.85574pt.
+ [5 <C:/Users/I001817/Documents/__DOCUMENTS/Conference/ICIKM 2013/OLDCAT/BlindS
+pot.pdf>]
+Underfull \vbox (badness 2486) has occurred while \output is active []
+
+
+<SingleShipMap.pdf, id=69, 578.16pt x 461.725pt>
+File: SingleShipMap.pdf Graphic file (type pdf)
+ <use SingleShipMap.pdf>
+Package pdftex.def Info: SingleShipMap.pdf used on input line 329.
+(pdftex.def)             Requested size: 231.2599pt x 184.68672pt.
+
+<100ShipMap.pdf, id=70, 578.16pt x 461.725pt>
+File: 100ShipMap.pdf Graphic file (type pdf)
+ <use 100ShipMap.pdf>
+Package pdftex.def Info: 100ShipMap.pdf used on input line 331.
+(pdftex.def)             Requested size: 231.2599pt x 184.68672pt.
+ [6 <C:/Users/I001817/Documents/__DOCUMENTS/Conference/ICIKM 2013/OLDCAT/RAW.pd
+f> <C:/Users/I001817/Documents/__DOCUMENTS/Conference/ICIKM 2013/OLDCAT/ORIGIN.
+pdf
+
+pdfTeX warning: pdflatex.exe (file C:/Users/I001817/Documents/__DOCUMENTS/Confe
+rence/ICIKM 2013/OLDCAT/ORIGIN.pdf): PDF inclusion: multiple pdfs with page gro
+up included in a single page
+> <C:/Users/I001817/Documents/__DOCUMENTS/Conference/ICIKM 2013/OLDCAT/MAXDIST.
+pdf
+
+pdfTeX warning: pdflatex.exe (file C:/Users/I001817/Documents/__DOCUMENTS/Confe
+rence/ICIKM 2013/OLDCAT/MAXDIST.pdf): PDF inclusion: multiple pdfs with page gr
+oup included in a single page
+> <C:/Users/I001817/Documents/__DOCUMENTS/Conference/ICIKM 2013/OLDCAT/MINDIST.
+pdf
+
+pdfTeX warning: pdflatex.exe (file C:/Users/I001817/Documents/__DOCUMENTS/Confe
+rence/ICIKM 2013/OLDCAT/MINDIST.pdf): PDF inclusion: multiple pdfs with page gr
+oup included in a single page
+> <C:/Users/I001817/Documents/__DOCUMENTS/Conference/ICIKM 2013/OLDCAT/TIME.pdf
+
+
+pdfTeX warning: pdflatex.exe (file C:/Users/I001817/Documents/__DOCUMENTS/Confe
+rence/ICIKM 2013/OLDCAT/TIME.pdf): PDF inclusion: multiple pdfs with page group
+ included in a single page
+> <C:/Users/I001817/Documents/__DOCUMENTS/Conference/ICIKM 2013/OLDCAT/ANGLE.pd
+f
+
+pdfTeX warning: pdflatex.exe (file C:/Users/I001817/Documents/__DOCUMENTS/Confe
+rence/ICIKM 2013/OLDCAT/ANGLE.pdf): PDF inclusion: multiple pdfs with page grou
+p included in a single page
+>]
+("C:\Users\I001817\Documents\__DOCUMENTS\Conference\ICIKM 2013\OLDCAT\OLDCAT.bb
+l"
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+) [7 <C:/Users/I001817/Documents/__DOCUMENTS/Conference/ICIKM 2013/OLDCAT/Singl
+eShipMap.pdf> <C:/Users/I001817/Documents/__DOCUMENTS/Conference/ICIKM 2013/OLD
+CAT/100ShipMap.pdf>] <wt.jpg, id=152, 58.84843pt x 73.50891pt>
+File: wt.jpg Graphic file (type jpg)
+ <use wt.jpg>
+Package pdftex.def Info: wt.jpg used on input line 347.
+(pdftex.def)             Requested size: 72.27538pt x 90.28082pt.
+File: wt.jpg Graphic file (type jpg)
+
+<use wt.jpg>
+Package pdftex.def Info: wt.jpg used on input line 347.
+(pdftex.def)             Requested size: 72.27538pt x 90.28082pt.
+
+Underfull \hbox (badness 1661) in paragraph at lines 347--353
+[]\OT1/ptm/b/n/8 Wang Ting \OT1/ptm/m/n/8 is born in 1983 in Chengdu,
+ []
+
+[8
+
+ <C:/Users/I001817/Documents/__DOCUMENTS/Conference/ICIKM 2013/OLDCAT/wt.jpg>]
+("C:\Users\I001817\Documents\__DOCUMENTS\Conference\ICIKM 2013\OLDCAT\OLDCAT.au
+x") ) 
+Here is how much of TeX's memory you used:
+ 3925 strings out of 493921
+ 63021 string characters out of 3144870
+ 132346 words of memory out of 3000000
+ 7186 multiletter control sequences out of 15000+200000
+ 47042 words of font info for 84 fonts, out of 3000000 for 9000
+ 844 hyphenation exceptions out of 8191
+ 36i,11n,47p,1281b,421s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/
+utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on OLDCAT.pdf (8 pages, 1633864 bytes).
+PDF statistics:
+ 210 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+
